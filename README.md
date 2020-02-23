@@ -8,7 +8,7 @@ create a new repository on the command line
   git push -u origin master
 
 
-push an existing repository from the command line
+Push an existing repository from the command line
 
   git remote add origin https://github.com/benjanson/demo-1.git
   git push -u origin master
